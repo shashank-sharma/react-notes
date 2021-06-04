@@ -1,0 +1,37 @@
+* {
+    scrollbar-width: thin;
+}
+
+html {
+    scroll-behavior: smooth;
+    color: #161f38;
+    scrollbar-color: rgb(0, 132, 101) rgb(28, 24, 36);
+}
+
+.notes-container {
+    background-color: rgb(28, 24, 36);
+    color: white;
+    --bs-gutter-x: 0;
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    margin-top: 0;
+    margin-bottom: .5rem;
+    font-weight: 800 !important;
+    line-height: 1.2;
+}
+
+a {
+    color: rgb(0, 132, 101) !important;
+    font-weight: 600 !important;
+}
+
+a:hover {
+    color: rgb(11, 168, 129) !important;
+}
+
+.sticky-sidebar {
+    position: sticky;
+    top: 0;
+    height: 100vh;
+}

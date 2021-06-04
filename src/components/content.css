@@ -1,0 +1,12 @@
+.content-container {
+    padding: 80px;
+}
+
+.content-title {
+    color: rgb(0, 187, 123);
+    font-size: 3.5rem;
+}
+
+.content-date {
+    font-weight: 300;
+}
