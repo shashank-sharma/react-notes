@@ -1,6 +1,6 @@
 {
-  "homepage": "notes.shashank-sharma.xyz",
   "name": "myblog",
+  "homepage": "notes.shashank-sharma.xyz",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
