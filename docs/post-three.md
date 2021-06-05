@@ -1,6 +1,6 @@
----
+<<<
 date: "2019-05-05"
----
+>>>
 
 # Javascript: Language of the Web
 

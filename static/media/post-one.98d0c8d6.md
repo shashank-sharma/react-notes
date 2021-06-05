@@ -1,6 +1,6 @@
----
++++
 title: "My blog post"
----
++++
 
 # Javascript: Language of the Web
 
