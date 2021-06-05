@@ -1,6 +1,6 @@
-<<<
-date: "2019-05-05"
->>>
+= yaml =
+title: "My blog post"
+= yaml =
 
 # Javascript: Language of the Web
 
