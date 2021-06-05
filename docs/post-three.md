@@ -1,3 +1,8 @@
+---
+date: "2019-05-05"
+title: "My second blog post"
+---
+
 # Javascript: Language of the Web
 
 Javascript is primarily client side language which gets executed on webpages to make it more interactive (in short telling web browser do some dirty work). It was introduced in 1995 as a way to add programs to web pages in the Netscape Navigator browser. It is interpreted and not a compiled language but now days modern web browser use a technology knows as JIT (Just In-Time) compilation. Usually when you execute javascript code in browser console then behind the console it is REPL (Read-Eval-Print-Loop), this is what console runs.
