@@ -1,6 +1,4 @@
 ---
-slug: "/blog/my-first-post"
-date: "2019-05-05"
 title: "My blog post"
 ---
 
